@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋 my name is Ziyang
+============================
 
-<!--
-**FuZiyang00/FuZiyang00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student and 
+----------------------------------
 
-Here are some ideas to get you started:
+I'm a Data Science student and programming enthusiast with a passion for coding, and learning new stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Trieste, Italy.
+* 🧠  I'm currently struggling to learn High Performance Computing.
+* 🤝  I'm open to collaborating on cool open source projects.
+
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
+
+
+### Socials
+<a href="https://www.linkedin.com/in/ziyangfu00" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
